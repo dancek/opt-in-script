@@ -32,3 +32,7 @@ The click handler will be attached
 Recommended:
  1. Review the source code yourself.
  2. Copy `opt-in-script.js` to your site and include it in the end of `<body>`.
+
+Alternatives:
+ - `npm install opt-in-script`
+ - `<script src="https://cdn.jsdelivr.net/gh/dancek/opt-in-script@0.1.0/opt-in-script.js" integrity="sha384-5EFfPduN0IO9aQmdZGE7hXrteMN54vwjnrln3n12ceFbYRyz4p/vO/UBgaa63tCh" crossorigin="anonymous"></script>`
