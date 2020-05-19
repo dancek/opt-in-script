@@ -1,0 +1,21 @@
+{
+  "name": "opt-in-script",
+  "version": "0.1.0",
+  "description": "Let visitors opt in to <script> tags",
+  "main": "opt-in-script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancek/opt-in-script.git"
+  },
+  "keywords": [
+    "privacy",
+    "debloat",
+    "opt-in"
+  ],
+  "author": "Hannu Hartikainen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dancek/opt-in-script/issues"
+  },
+  "homepage": "https://github.com/dancek/opt-in-script"
+}
